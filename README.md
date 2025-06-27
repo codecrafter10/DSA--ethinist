@@ -18,10 +18,6 @@
 - **Database**: MongoDB / Firebase
 - **Deployment**: Vercel / Netlify / Heroku
 
-## 📷 Screenshots
-
-(Add screenshots or demo GIFs here if available)
-
 ## 🛠️ How to Use
 
 1. Clone the repository
